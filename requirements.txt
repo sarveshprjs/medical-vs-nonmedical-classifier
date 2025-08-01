@@ -1,0 +1,9 @@
+tensorflow
+numpy
+matplotlib
+seaborn
+pdf2image
+PyMuPDF
+bs4
+requests
+opencv-python
